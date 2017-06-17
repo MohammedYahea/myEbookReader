@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\My Courses\company\MyEbookReader\MyEbookReader\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="G:\My Courses\company\MyEbookReader\MyEbookReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_17cb40880068aa6101cd0e682a5271d12b5174f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\My Courses\company\MyEbookReader\MyEbookReader\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="G:\My Courses\company\MyEbookReader\MyEbookReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_73cc4703a48707a6da7da3bf113c220dedbeae2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\My Courses\company\MyEbookReader\MyEbookReader\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9571f8bdf184cb839a07812eee887d962a6d6fcf">
+        <dex dex="G:\My Courses\company\MyEbookReader\MyEbookReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c0f7664b65cd9667b748facaaa2ac20655995f20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\My Courses\company\MyEbookReader\MyEbookReader\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\My Courses\company\MyEbookReader\MyEbookReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_a313dd11f3f9d2368f69e26cf10bec311ac94642\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\My Courses\company\MyEbookReader\MyEbookReader\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="G:\My Courses\company\MyEbookReader\MyEbookReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_28ac75249b7b814544e8bee9737df4837f347ebb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="G:\My Courses\company\MyEbookReader\MyEbookReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_dce0f5dc4ec87302d879250c45fe5f3f72f02917\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\My Courses\company\MyEbookReader\MyEbookReader\app\libs\slf4j-android-1.5.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="404eece4bb07ea211f5a879c22458775c612f0df">
+        <dex dex="G:\My Courses\company\MyEbookReader\MyEbookReader\app\build\intermediates\transforms\dex\debug\folders\1000\2\slf4j-android-1.5.8_5ae174d375916f4de187dbbfbaa8076d76b49abb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\My Courses\company\MyEbookReader\MyEbookReader\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="G:\My Courses\company\MyEbookReader\MyEbookReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_8401431887c471df5439ba0f102432141204899e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="G:\My Courses\company\MyEbookReader\MyEbookReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_b99665049711028084c8737f4a993cc6a895f95e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\My Courses\company\MyEbookReader\MyEbookReader\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="G:\My Courses\company\MyEbookReader\MyEbookReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_852ca7d8671213e218f1716749964c4a824c670c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\My Courses\company\MyEbookReader\MyEbookReader\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="G:\My Courses\company\MyEbookReader\MyEbookReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_8d8b21ad4b5b1a22199c810f839cf5c8de183ed0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\My Courses\company\MyEbookReader\MyEbookReader\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="G:\My Courses\company\MyEbookReader\MyEbookReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.2_d8af85c8e91c2cdb73e1fb71afb6c21a1981d93f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\My Courses\company\MyEbookReader\MyEbookReader\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="G:\My Courses\company\MyEbookReader\MyEbookReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_8995e85d263159b8e7c8cae52db9d18ac643ad28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\My Courses\company\MyEbookReader\MyEbookReader\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="G:\My Courses\company\MyEbookReader\MyEbookReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_cfffd99ea1ad6a81fc645d92c29a37a5155d7130\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\My Courses\company\MyEbookReader\MyEbookReader\app\libs\epublib-core-latest.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca916295c8af907b0c2d877b5f3a392e5ceb80ea">
+        <dex dex="G:\My Courses\company\MyEbookReader\MyEbookReader\app\build\intermediates\transforms\dex\debug\folders\1000\2\epublib-core-latest_2ddf69bb8610f5bd84b092bde607e238b8b4cede\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\My Courses\company\MyEbookReader\MyEbookReader\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3d330626386c8cb9b0b2019fd172095c262522e">
+        <dex dex="G:\My Courses\company\MyEbookReader\MyEbookReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6b1054dec91cf8928b735c9fa0343751d8ade47b\classes.dex" />
+    </item>
+
+</items>
